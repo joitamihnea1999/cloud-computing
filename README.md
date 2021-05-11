@@ -1,6 +1,7 @@
 # cloud-computing
 
 **Introducere**
+
 Link-ul pentru aplicatia creata, incarcat pe Heroku: https://cloud-computing-mihnea-joita.herokuapp.com/
 
 Aceasta aplicatie a fost realizata folosind Node.js si React. Scopul ei este de a usura munca utilizatorilor care doresc sa ajunga dintr-o locatie in alta folosind ca mijloc de transport avionul. Tot ce are de facut utilizatorul este sa introduca codul aeroportului de plecare, codul aeroportului de sosire si eventual data de la care se doresc sa fie vazute zborurile.
@@ -57,9 +58,9 @@ request.headers({
 
 
 **Capturi ecran aplicație**
-<img src="cloud-computing-screenshots/ss1.PNG" />
-<img src="cloud-computing-screenshots/ss2.png" />
-<img src="cloud-computing-screenshots/ss3.png" />
+<img src="screenshots/ss1.png" />
+<img src="screenshots/ss2.png" />
+<img src="screenshots/ss3.png" />
 
 
 **Referinte**

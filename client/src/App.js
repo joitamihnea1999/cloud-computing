@@ -3,7 +3,6 @@ import React, { Fragment } from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from './components/Navbar';
 import { LandingPage } from './components/LandingPage';
-import { Weather } from './components/Weather';
 import { Flight } from './components/Flight';
 
 function App() {

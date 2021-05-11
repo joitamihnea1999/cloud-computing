@@ -94,7 +94,7 @@ export const Flight = () => {
         <button type="submit">Search</button>
       </form>
       {loading && <Fragment> <h1>
-        Loading... This might take a while :) Grab a coffee or someting meanwhile
+        Loading... This might take a while :)
           </h1>
           <div className="spinner-container">
           <ClipLoader color={'red'} loading={loading}  size={150} />

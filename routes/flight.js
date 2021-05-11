@@ -43,7 +43,7 @@ router.post('/airport', (req,res) => {
 	"iata": req.body.code
 });
 
-req.headers({
+request.headers({
 	"x-rapidapi-key": "20ba4a0a79mshfb2be2566e1b5c4p17d50bjsn67182507b2eb",
 	"x-rapidapi-host": "airport-info.p.rapidapi.com",
 	"useQueryString": true
